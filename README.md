@@ -7,3 +7,5 @@ I am a problem solver. Not a coder, not a web-developer, not a technician, nor a
 - 💬 Ask me about: anything, seriously!
 - 📫 How to reach me: Pigeon scrolls (..or LinkedIn)
 - ⚡ Fun fact: The Pisa tower ain't leaning
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)

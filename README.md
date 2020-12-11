@@ -4,7 +4,6 @@
 I am a problem solver. I enjoy very much to immerse myself in learning new stuff and finding solutions to complex problems. Here you'll find some of my experiments and thoughts on algorithmic trading and machine learning for finance.
 
 - 🔭 I’m currently working on an IB API algorithm (NVDA_EMAs_crossover)
-- 💬 Ask me about: anything, seriously!
 - 📫 How to reach me: Pigeon scrolls (..or LinkedIn)
 - ⚡ Fun fact: The Pisa tower ain't leaning
 

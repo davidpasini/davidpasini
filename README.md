@@ -10,18 +10,7 @@ I am a problem solver. Not a coder, not a web-developer, not a technician, nor a
 
 ---
 
-<p align="center">
-[![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)][![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&langs_count=3&theme=radical)](https://github.com/davidpasini/github-readme-stats)
-</p>
-
-<details open>
-<br>
-<summary>
 <g-emoji class="g-emoji" alias="innocent" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f607.png">😇</g-emoji>
 <b>My GitHub stats</b>:
-</summary>
 <br>
-<p align="center">
-  ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)
-</p>
-</details>
+![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&langs_count=3&theme=radical)](https://github.com/davidpasini/github-readme-stats)

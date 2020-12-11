@@ -15,3 +15,7 @@ I am a problem solver. I enjoy very much to immerse myself in learning new stuff
 
 
 ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&layout=compact&theme=radical)](https://github.com/davidpasini/github-readme-stats)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

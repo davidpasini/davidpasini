@@ -3,8 +3,7 @@
 
 I am a problem solver. Not a coder, not a web-developer, not a technician, nor a financial analyst but I enjoy very much to immerse myself in learning new stuff and solving complex architectures. Here you'll find some of my experiments and thoughts on algorithmic trading and machine learning for finance.
 
-- 🔭 I’m currently working on an IB API algorithm
-- 🌱 I’m currently learning financial analysis
+- 🔭 I’m currently working on an IB API algorithm (NVDA_EMAs_crossover)
 - 💬 Ask me about: anything, seriously!
-- 📫 How to reach me: Pigeon scrolls
+- 📫 How to reach me: Pigeon scrolls (..or LinkedIn)
 - ⚡ Fun fact: The Pisa tower ain't leaning

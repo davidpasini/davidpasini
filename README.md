@@ -15,3 +15,6 @@ I am a problem solver. Not a coder, not a web-developer, not a technician, nor a
 
 
 ![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&langs_count=3&theme=radical)](https://github.com/davidpasini/github-readme-stats)
+
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 

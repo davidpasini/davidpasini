@@ -15,3 +15,4 @@ I am a problem solver. Not a coder, not a web-developer, not a technician, nor a
   <br>
   <p align="center">![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)</p>
 </details>
+![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)

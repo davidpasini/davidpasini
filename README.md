@@ -14,4 +14,4 @@ I am a problem solver. I enjoy very much to immerse myself in learning new stuff
 <b>My GitHub stats</b>:
 
 
-![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&langs_count=3&theme=radical)](https://github.com/davidpasini/github-readme-stats)
+![Davide's github stats](https://github-readme-stats.vercel.app/api?username=davidpasini&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidpasini&layout=compact&theme=radical)](https://github.com/davidpasini/github-readme-stats)
